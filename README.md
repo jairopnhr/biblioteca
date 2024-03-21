@@ -31,5 +31,5 @@ O projeto se trata de uma página de uma biblioteca online, com cadastros de liv
 - [Biblioteca do Frontend](https://github.com/jairopnhr/biblioteca)
 
   ### Ainda não existe 
-- [Repositório do Backend](https://github.com/seu-usuario/biblioteca-back-end)
+- [Repositório do Backend](https://github.com/jairopnhr/biblioteca-back-end)
 
