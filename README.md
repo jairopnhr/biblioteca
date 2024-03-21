@@ -29,7 +29,5 @@ O projeto se trata de uma página de uma biblioteca online, com cadastros de liv
   ## Links
 
 - [Biblioteca do Frontend](https://github.com/jairopnhr/biblioteca)
-
-  ### Ainda não existe 
 - [Repositório do Backend](https://github.com/jairopnhr/biblioteca-back-end)
 
