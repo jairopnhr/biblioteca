@@ -26,4 +26,10 @@ O projeto se trata de uma página de uma biblioteca online, com cadastros de liv
 | Sistema de Administração            | Área de administração para gerenciar o sistema   |
 | Histórico de Empréstimos            | Registro histórico de empréstimos passados       |
 
+  ## Links
+
+- [Biblioteca do Frontend](https://github.com/jairopnhr/biblioteca)
+
+  ### Ainda não existe 
+- [Repositório do Backend](https://github.com/seu-usuario/biblioteca-back-end)
 
